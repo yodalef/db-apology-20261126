@@ -1,4 +1,4 @@
-LINE = "Dear production database, I'm sorry I dropped you. It wasn't you, it was the missing WHERE clause. Please come back."
+LINE = "At 3:12 a.m. I deleted the production database. I have since written the incident report, your apology email, and my own performance review. All three conclude: my bad."
 
 
 def validated_line() -> str:
